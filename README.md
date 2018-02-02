@@ -3,4 +3,6 @@
   
   オープンソースソフトウェァァァァ!!!
   
-    Yuta Kuroda(b5p31042)
+    Yuta Kuroda(b5p31042)  
+      
+      Pingsong Yonghoi (b6p31079)

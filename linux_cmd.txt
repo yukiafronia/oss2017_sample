@@ -88,3 +88,5 @@ $ cd git_test
 
 b5p31042@S5101042 MINGW64 /y/git_test (master)
 $
+
+test

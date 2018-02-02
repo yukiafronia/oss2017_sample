@@ -1,2 +1,0 @@
-vi sample
-b6p31035

@@ -1,14 +1,16 @@
-# oss2017_sample
-オープンソースソフトウェアサンプルプロジェクト  
-  
-  オープンソースソフトウェァァァァ!!!
-  
-    Yuta Kuroda(b5p31042)  
-      
-      Pingsong Yonghoi (b6p31079)  
-        
+###
+Git コマンド使い方  
 
-	Kuwana987(b6p31035)a
+すでにリポジトリがある場合。  
 
+git clone gitのurl
 
+cd リポジトリ名称  
 
+ファイル編集する。  
+
+git add .   ( . の意味は全部含める)  
+
+git commit -m "コメント"
+
+git push origin master
